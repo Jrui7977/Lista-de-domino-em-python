@@ -1,12 +1,7 @@
 # Lista-de-domino-em-python
 fazer uma lista de dominó e desenvolver funções que simulem o jogo real
-Universidade Federal do Amazonas – UFAM
 
-Instituto de Computação – IComp
-
-Introdução à Computação – 2021/1 Ano 2022 – Turmas CB02 e EC02
-
-Lista de Exercícios – Abril/2022
+Lista de Exercícios
 
 PARTE I – O jogo do Dominó (Blocos 1 a 4)
 
